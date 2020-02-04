@@ -72,7 +72,7 @@ run the following examples:
         --gatewayid=my-gateway \
         --deviceId=my-device \
         --privateKeyFile=../rsa_private.pem \
-        --algorithm=RS256
+        --algorithm=RS256 \
         --clientDuration=60000
 
 # Sending a configuration update
